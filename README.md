@@ -1,7 +1,7 @@
 # Android-WS
 Android Web Services
 
-# build.gradle (Project Level)
+## build.gradle (Project Level)
     allprojects {
         repositories {
             ...
@@ -9,12 +9,12 @@ Android Web Services
         }
     }
 
-# build.gradle (Module Level)
+## build.gradle (Module Level)
     dependencies {
         implementation 'com.github.Renish94:Android-WS:v1.0'
     }
 
-# License
+### License
     Copyright (C) 2018 Renish Patel
 
     Licensed under the Apache License, Version 2.0 (the "License");
