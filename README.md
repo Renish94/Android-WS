@@ -14,6 +14,9 @@ Android Web Services
         implementation 'com.github.Renish94:Android-WS:v1.0'
     }
 
+## Do not forget to add internet permission in manifest if already not present
+    <uses-permission android:name="android.permission.INTERNET" />
+
 ### License
     Copyright (C) 2018 Renish Patel
 
